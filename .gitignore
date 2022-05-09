@@ -1,0 +1,11 @@
+NoSeUsa
+.venv
+.models
+__pycache__
+poetry.lock
+sqlPostgresCli-Class.py
+dags/files/
+logs/
+dags/graphs/
+aa.sh
+.env
